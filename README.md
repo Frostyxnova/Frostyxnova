@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frostyxnova
+- 👋 Hi, I’m Farhan Khan
 - 👀 I’m interested in SDE role
 - 🌱 I’m currently learning DSA-Android dev-CSFundamentals
 - 💞️ I’m looking to collaborate on ...
